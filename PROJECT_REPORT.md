@@ -249,4 +249,4 @@ LincolnBot demonstrates the effective combination of semantic search and generat
 2. ChromaDB API Reference
 3. OpenAI API Documentation
 4. Redis Documentation
-5. Python Testing Best Practices 
+5. Python Testing Best Practices
